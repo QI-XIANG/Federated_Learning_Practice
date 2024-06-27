@@ -3,7 +3,7 @@
 1. 強烈建議建一個python的虛擬環境來跑實驗 (怕套件跟自己電腦套件衝突引發大爆炸的話)!
 2. 我目前已經修正並新增學長在requirement.txt中缺少列出的套件
 3. 學長的code/utils/data_utils.py存在路徑上的錯誤，這部分已修正
-4. 修正python main.py 無法執行的問題，原因是沒有去執行dataset/generate_mnist.py (我這邊使用的sys args是noniid balance dir)
+4. 修正`python main.py`無法執行的問題，原因是沒有去執行dataset/generate_mnist.py (我這邊使用的sys args是noniid balance dir)
 
 ### 使用說明
 
@@ -27,8 +27,8 @@
 
 ### 執行過程範例影片
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGPfxRIfAWY?si=wSSsqsiAZZHvhKOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[影片連結](https://www.youtube.com/embed/GGPfxRIfAWY?si=wSSsqsiAZZHvhKOK)
 
-##### 特別感謝原始碼提供者 : 鍾明翰 學長 ![學長筆記連結](https://hackmd.io/XyJWVGecSRWu4jn0haT8mg)
-##### 2024.06.28 編輯 by 棨翔 ![Federated Learning 學長交接討論重點摘要](https://hackmd.io/@qixiang1009/BkubNnkj6)
+##### 特別感謝原始碼提供者 : 鍾明翰 學長 [學長筆記連結](https://hackmd.io/XyJWVGecSRWu4jn0haT8mg)
+##### 2024.06.28 編輯 by 棨翔 [Federated Learning 學長交接討論重點摘要](https://hackmd.io/@qixiang1009/BkubNnkj6)
 
