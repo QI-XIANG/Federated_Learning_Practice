@@ -9,3 +9,5 @@ torchaudio
 torchtext
 torchvision
 ujson
+mlflow
+calmsize
